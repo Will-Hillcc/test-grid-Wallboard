@@ -1,6 +1,6 @@
+
 export interface Tile_Message {
     queueNumber: string,
-
     Name: string,
     Queue: string,
     LoggedIn: string,
@@ -22,7 +22,6 @@ export interface Tile_Message {
     LiberateGroup_Lost: any,
     Active_Calls: any,
     Managers_Free: any    
-
   }
 
 
